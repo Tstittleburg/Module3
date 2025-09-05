@@ -1,0 +1,1 @@
+The HTML and CSS documents in this repository were edited versions of a previous module where we were attempting to recreate a web page.  This lesson had us updating some colors and making some other small changes.
