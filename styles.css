@@ -17,7 +17,7 @@ aside {
   font-size: 14px;
   margin:0px;
   padding: 15px;
-  border-right: 15px solid #444466;
+  border-right: 15px solid #70bfd3;
 }
 
 aside::first-line {
@@ -66,13 +66,13 @@ h2 {
 
 /*Section*/
 section {
-  border-left: 40px solid #009900;
-  border-bottom: 2px solid #009900;
-  border-top: 2px solid #009900;
-  border-right: 2px solid #009900;
+  border-left: 40px solid #70bfd3;
+  border-bottom: 2px solid #70bfd3;
+  border-top: 2px solid #70bfd3;
+  border-right: 2px solid #70bfd3;
   width: 1075px;
   height: 90px;
-  background-color: #ffffcc;
+  background-color: #fafae9;
   padding: 30px;
   font-size: 18px;
   text-align: justify;
